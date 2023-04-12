@@ -1,7 +1,0 @@
-# ninja log v5
-6	436	7029266092977955	CMakeFiles/hello_world.dir/example.cpp.obj	c294ec2507696334
-440	639	7029266094883082	hello_world.exe	f1d34b6417b8a33b
-2	440	7029266092997960	CMakeFiles/hello_world.dir/hello_world.cpp.obj	e436111542df11c2
-2	707	7029272982050755	CMakeFiles/hello_world.dir/hello_world.cpp.obj	e436111542df11c2
-5	708	7029272982050755	CMakeFiles/hello_world.dir/move_me_out.cpp.obj	6fefff9e6aa81cff
-708	839	7029272983169204	hello_world.exe	f21bb2d0ba16b961
